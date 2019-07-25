@@ -72,7 +72,7 @@ we will create these features for both train and test data points<br>
 <li>authorities_s of dest</li>
 </ol>
 
-# Referance to Features:
+# Reference to Features:
 <ol>
   <li>Jaccard Distance: http://www.statisticshowto.com/jaccard-index/ </li>
   <li>Cosine Similarity(Otsuka-Ochiai coefficient): https://en.wikipedia.org/wiki/Cosine_similarity</li>
